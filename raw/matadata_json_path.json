@@ -1,0 +1,15 @@
+{
+"jsonpaths": [
+"$['asin']",
+"$['title']",
+"$['price']",
+"$['imUrl']",
+"$['related']['also_bought']",
+"$['related']['also_viewed']",
+"$['related']['bought_together']",
+"$['related']['buy_after_viewing']",
+"$['salesRank']",
+"$['brand']",
+"$['categories']"
+]
+}
